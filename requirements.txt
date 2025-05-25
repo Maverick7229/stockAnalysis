@@ -1,0 +1,14 @@
+phidata
+python-dotenv
+yfinance
+pandas
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+openai
+groq
+langchain
+langchain-community
+langchain-core
+langchain-groq
